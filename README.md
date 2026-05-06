@@ -126,7 +126,7 @@ Special thanks to:
 Emmanuel, M. (2026). The role of assistive technology in supporting the learning
 and participation of students with physical challenges in selected secondary schools
 in Oyo State, Nigeria [B.Ed. Project, Ekiti State University / Emmanuel Alayande
-University of Education].
+University of Education.
 ```
  
 ---
@@ -134,7 +134,3 @@ University of Education].
 ## 🔖 Keywords
  
 `Assistive Technology` · `Inclusive Education` · `Physical Challenges` · `Nigeria` · `Academic Performance` · `Social Inclusion` · `Classroom Participation` · `Oyo State` · `TAM` · `UDL` · `Education Policy`
- 
----
- 
-*© 2026 Emmanuel, Mary — Ekiti State University / Emmanuel Alayande University of Education*
