@@ -48,11 +48,6 @@ The problem is not whether assistive technology works — it is that it is large
 - Policy Analysis
 - Academic Writing
 
-## Author
-Emmanuel, Mary  
-B.Ed Guidance and Counselling  
-Ekiti State University
-
 ---
 
 ## How This Project Adds Value
